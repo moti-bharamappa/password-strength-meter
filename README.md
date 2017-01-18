@@ -1,6 +1,6 @@
-# tet
+# Password Strength meter
 
-> test project 
+> TIL project 
 
 ## Build Setup
 

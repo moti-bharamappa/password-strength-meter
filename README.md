@@ -1,4 +1,4 @@
-# Password Strength meter
+# Password strength meter
 
 > TIL project 
 
